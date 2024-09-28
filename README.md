@@ -1,9 +1,8 @@
-#Sales_Analysis
-Overview
+# Sales_Analysis
 The Sales Insights Data Analysis Project is designed to analyze sales data using a combination of MySQL for data extraction and processing, and Power BI for advanced visualization and reporting. The project provides a comprehensive view of sales performance across multiple markets, including product-wise sales, market trends, and overall revenue generation, with a focus on generating actionable insights that can guide business decision-making.
 
 
-# Sales Insights Data Analysis Project
+## Sales Insights Data Analysis Project
 
 This project involves analyzing sales data using MySQL for querying the dataset and Power BI for creating visual insights. Below are the steps and queries used to extract valuable insights from the data.
 
